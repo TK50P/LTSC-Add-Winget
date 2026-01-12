@@ -1,0 +1,4 @@
+*.cmd filter=lfs diff=lfs merge=lfs -text
+*.msixbundle filter=lfs diff=lfs merge=lfs -text
+*.Appx filter=lfs diff=lfs merge=lfs -text
+*.msix filter=lfs diff=lfs merge=lfs -text
