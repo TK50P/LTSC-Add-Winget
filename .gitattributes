@@ -1,0 +1,10 @@
+Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle filter=lfs diff=lfs merge=lfs -text
+Microsoft.VCLibs.140.00.UWPDesktop_14.0.33728.0_x64__8wekyb3d8bbwe.Appx filter=lfs diff=lfs merge=lfs -text
+Microsoft.VCLibs.140.00.UWPDesktop_14.0.33728.0_x86__8wekyb3d8bbwe.Appx filter=lfs diff=lfs merge=lfs -text
+Microsoft.VCLibs.140.00_14.0.33519.0_arm64__8wekyb3d8bbwe.Appx filter=lfs diff=lfs merge=lfs -text
+Microsoft.VCLibs.140.00_14.0.33519.0_x64__8wekyb3d8bbwe.Appx filter=lfs diff=lfs merge=lfs -text
+Microsoft.VCLibs.140.00_14.0.33519.0_x86__8wekyb3d8bbwe.Appx filter=lfs diff=lfs merge=lfs -text
+Microsoft.VCLibs.140.00.UWPDesktop_14.0.33728.0_arm64__8wekyb3d8bbwe.Appx filter=lfs diff=lfs merge=lfs -text
+Microsoft.WindowsAppRuntime.1.8_arm64.msix filter=lfs diff=lfs merge=lfs -text
+Microsoft.WindowsAppRuntime.1.8_x64.msix filter=lfs diff=lfs merge=lfs -text
+Microsoft.WindowsAppRuntime.1.8_x86.msix filter=lfs diff=lfs merge=lfs -text
